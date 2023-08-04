@@ -1,0 +1,158 @@
+#forms{
+    position: relative;
+    left: 200px;
+    bottom: 800px;
+    
+
+}
+#name{
+    position: relative;
+    width: 400px;
+}
+#label1{
+    display: grid;
+    position: relative;
+    right: 160px
+}
+#label2{
+    display: grid;
+    position: relative;
+    left: 270px;
+    bottom:55px
+
+}
+#email{
+    position: relative;
+    left: 450px;
+    bottom:55px;
+    width: 400px;
+
+}
+#form2{
+    position: relative;
+    bottom: 40px;
+    right: 45px;
+}
+#date{
+    width: 400px;
+    position: relative;
+    left: 50px;
+}
+
+
+
+#label3{
+    display: grid;
+    position: relative;
+    right: 100px;
+
+
+}
+#label4{
+    display: grid;
+    position: relative;
+    left: 350px;
+    bottom:60px
+
+
+}
+#password{
+    position: relative;
+    left: 500px;
+    bottom: 60px;
+    width: 400px;
+
+}
+#label5{
+    display: grid;
+    position: relative;
+    bottom: 70px;
+    right: 145px;
+
+}
+#phone{
+    position: relative;
+    bottom: 65px;
+    width: 400px;
+}
+#label6{
+    display: grid;
+    position: relative;
+    left: 310px;
+    bottom: 125px;
+}
+#confirmpass{
+
+position: relative;
+    left: 450px;
+    bottom: 120px;
+    width: 400px;
+}
+#label7{
+    display: grid;
+    position: relative;
+    bottom: 100px;
+    right: 140px;
+
+
+}
+#sec{
+    position: relative;
+    bottom: 95px;
+    width: 400px;
+}
+#label8{
+    display: grid;
+    position: relative;
+    bottom: 80px;
+    right: 150px;
+}
+#add{
+    position: relative;
+    bottom: 80px;
+    width: 400px;
+
+}
+#form6{
+    position: relative;
+    left: 130px;
+    bottom: 35px;
+}
+#bt{
+    background-color: rgb(14, 47, 211);
+    color: white;
+    width: 200px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 40px;
+    height: 50px;
+
+}
+#regimg{
+    display: flex;
+    height: 900px;
+    width: 700px;
+}
+p{
+    position: relative;
+    bottom: 40px;
+    right: 150px;
+    color: rgb(112, 108, 108);
+}
+h3{
+    color: rgb(0, 0, 12);
+    position: relative;
+    right: 135px;
+    bottom: 30px;
+
+}
+#log{
+    display: flex;
+    position: relative;
+    bottom: 850px;
+}
+#al{
+    position: relative;
+top: 30px;
+left: 20px;
+}

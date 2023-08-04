@@ -1,0 +1,33 @@
+#details{
+    position: relative;
+    left: 200px;
+    top: 150px;
+}
+#logout{
+    border-radius: 8px;
+    background-color: aqua;
+    position: relative;
+    left: 400px;
+
+}
+#title{
+    position: relative;
+    left: 470px;
+    bottom: 85px;
+
+}
+#image{
+    position: relative;
+    right:500px
+}
+#ava{
+    position: relative;
+    right: 250px;
+    top: 150px;
+}
+h3{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    color: grey;
+}
